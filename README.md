@@ -1,6 +1,6 @@
 <h1 align="center">🦇 Jogo Da Memória Do Batman 🦇</h1>
 
-<h2 align="center"><a href=""> 🎮 Clique Aqui Para Jogar 🎮</a></h2>
+<h2 align="center"><a href="https://aandersonsantos.github.io/Jogo-da-memoria/"> 🎮 Clique Aqui Para Jogar 🎮</a></h2>
 
 <h2 align="center">📸Screenshot</h2>
 <p>
@@ -17,11 +17,11 @@
 ```
 #Para fazer clone do repositório ultilizando git use a linha de comando abaixo:
 
-git clone 
+git clone https://github.com/AAndersonSantos/Jogo-da-memoria.git
 ```
 ---
 
 
 ## **📝Licença**
 
- [MIT]() 
+ [MIT](https://github.com/AAndersonSantos/Jogo-da-memoria/blob/main/LICENSE) 
